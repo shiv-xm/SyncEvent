@@ -47,7 +47,7 @@ export const Header = () => {
           </SignedOut>
 
           <Link
-            href="https://github.com/sanidhyy/evently"
+            href="https://github.com/shiv-xm/SyncEvent"
             target="_blank"
             rel="noreferrer noopener"
             title="Source Code"
